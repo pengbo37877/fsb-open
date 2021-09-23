@@ -1,0 +1,5 @@
+{
+    "prettier.printWidth": 8000000,
+    "prettier.proseWrap": "never",
+    "html.format.wrapLineLength": 10000000000000
+}
